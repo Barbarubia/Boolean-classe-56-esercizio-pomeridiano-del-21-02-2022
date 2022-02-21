@@ -56,7 +56,19 @@ main section {
     margin-bottom: 1rem;
 }
 
+main .ticket {
+    margin-top: 2rem;
+}
 
+main button {
+    border: none;
+    border-radius: 10rem;
+    background-color: rgb(133, 25, 25);
+    margin-top: 1rem;
+    padding: .5em 1em;
+    color: white;
+    font-weight: 600;
+}
 /* Footer */
 
 footer {
